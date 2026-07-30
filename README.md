@@ -83,6 +83,14 @@ If you are an employer, recruiter, interviewer, or academic reviewer and would l
 
 ---
 
+## Future Enhancements
+
+- Support for additional document formats
+- Batch document processing
+- Custom rewrite prompts
+- GUI improvements
+- Performance optimizations
+
 ## Author
 
 **Muhammad Faezal Satar**

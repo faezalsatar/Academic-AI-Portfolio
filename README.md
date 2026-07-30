@@ -3,7 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-blue)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-green)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey)
-![Status](https://img.shields.io/badge/Status-Private%20Source-orange)
+![Source](https://img.shields.io/badge/Source-Private-orange)
+
+> **Portfolio showcase for an offline AI-powered Microsoft Word (.docx) rewriting application built with Python and Ollama.**
 
 > **Portfolio showcase for an offline AI-powered Microsoft Word (.docx) rewriting application built with Python and Ollama.**
 

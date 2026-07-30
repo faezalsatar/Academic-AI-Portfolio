@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/image.png" alt="Academic-AI Banner" width="100%">
+  <img src="assets/banner.png" alt="Academic-AI Banner" width="100%">
 </p>
 
 # Academic-AI
@@ -8,8 +8,6 @@
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-green)
 ![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows-lightgrey)
 ![Source](https://img.shields.io/badge/Source-Private-orange)
-
-> **Portfolio showcase for an offline AI-powered Microsoft Word (.docx) rewriting application built with Python and Ollama.**
 
 > **Portfolio showcase for an offline AI-powered Microsoft Word (.docx) rewriting application built with Python and Ollama.**
 

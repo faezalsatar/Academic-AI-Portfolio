@@ -57,7 +57,9 @@ Unlike cloud-based writing assistants, Academic-AI processes documents locally u
 The diagram below illustrates the overall workflow of Academic-AI, from loading a Microsoft Word document to generating a rewritten document while preserving the original formatting.
 
 <p align="center">
-  <img src="assets/architecture-diagram.png" alt="Academic-AI Architecture Diagram" width="100%">
+  <img src="assets/architecture-diagram.png"
+       alt="Academic-AI Architecture Diagram"
+       width="100%">
 </p>
 
 ---
@@ -68,10 +70,10 @@ The following screenshots demonstrate the complete Academic-AI workflow.
 
 | Step | Preview |
 |------|---------|
-| **1. Launch Application** | ![Application Start](assets/01-application-start.PNG) |
-| **2. Select Rewrite Mode** | ![Rewrite Mode](assets/02-rewrite-mode.PNG) |
-| **3. Process Document** | ![Processing Complete](assets/03-processing-complete.PNG) |
-| **4. Generated Output** | ![Output Document](assets/04-output-document.PNG) |
+| **1. Launch Application** | ![Application Start](assets/01-application-start.png) |
+| **2. Select Rewrite Mode** | ![Rewrite Mode](assets/02-rewrite-mode.png) |
+| **3. Process Document** | ![Processing Complete](assets/03-processing-complete.png) |
+| **4. Generated Output** | ![Output Document](assets/04-output-document.png) |
 
 ---
 

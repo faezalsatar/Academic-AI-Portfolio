@@ -63,15 +63,13 @@ Unlike cloud-based writing assistants, Academic-AI processes documents locally u
 
 ## Source Code
 
+## Source Code
+
 The complete Academic-AI source code is maintained in a private repository.
 
 This public repository is intended to showcase the project's functionality, architecture, and development process. It does not contain the full implementation.
 
 If you are an employer, recruiter, interviewer, or academic reviewer and would like to review the implementation, please contact me to request temporary access to the private repository for evaluation purposes.
-
-This public repository exists solely as a portfolio showcase and does not contain the application's implementation.
-
-If you are a recruiter, interviewer, or potential collaborator and would like to review the source code, please contact me to request access.
 
 ---
 

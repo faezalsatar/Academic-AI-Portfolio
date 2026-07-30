@@ -7,8 +7,6 @@
 
 > **Portfolio showcase for an offline AI-powered Microsoft Word (.docx) rewriting application built with Python and Ollama.**
 
-> **Portfolio showcase for an offline AI-powered Microsoft Word (.docx) rewriting application built with Python and Ollama.**
-
 > **Note:** The complete source code is maintained in a private repository. This repository is intended to demonstrate the project's features, architecture, and development journey.
 
 ---

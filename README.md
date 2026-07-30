@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Academic-AI Banner" width="100%">
+  <p align="center">
+  <img src="assets/banner.png" alt="Academic-AI Banner">
 </p>
 
 # Academic-AI
